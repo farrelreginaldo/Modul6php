@@ -1,0 +1,9 @@
+# Modul6php
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(169).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(170).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(171).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(172).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(173).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(174).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(175).png?raw=true)
+![alt text](https://github.com/farrelreginaldo/Modul6php/blob/master/Modul%206/SS/Screenshot%20(176).png?raw=true)
